@@ -68,7 +68,7 @@ raw形式で保存されているのでちょっとした工夫@<fn>{kufu}をし
 
 ==== JVS-MuSiC
 
-2020年春季音響学会の講演プログラム集@<fn>{asv2020s}を眺めていたら，「JVS-MuSiC: Japanese multispeaker singing-voice corpus」という題目の講演がありました．
+2020年春季音響学会の講演プログラム集@<fn>{asj2020s}を眺めていたら，「JVS-MuSiC: Japanese multispeaker singing-voice corpus」という題目の講演がありました．
 想像ですが，猿渡・小山研究室の研究グループにより「JVSコーパス」@<fn>{jvs}という100名の日本人話者により発話された音声コーパスが構築されているので，それの歌声版という感じでしょうか？
 今後に期待ですね！
 //footnote[asj2020s][@<href>{https://acoustics.jp/cms/wp_asj/wp-content/uploads/2020spring_program.pdf}]
