@@ -115,7 +115,7 @@ PFCやpFabricはレイヤ2~3で行うので、「レイヤ4輻輳制御」だけ
 
 cwndの値は@<bou>{ほとんどの場合}、探索によって推定します。
 データ送信側で、これ以上送ったら輻輳するな……と思ったら減らす、まだ送れそうだな……と思ったら増やすわけです。
-とはいえ、個人がインターネットに繋げられるような回線でもネットワーク特性は大きく異なる、たとえば帯域幅が100kbpsから10Gbpsまであったり、通信相手の距離や有線・無線でレイテンシそのものやジッタに大きな差があったりする中で推定……？無茶では……？
+とはいえ、個人がインターネットに繋げられるような回線でもネットワーク特性は大きく異なる、たとえば帯域幅が100 kbpsから10 Gbpsまであったり、通信相手の距離や有線・無線でレイテンシそのものやジッタに大きな差があったりする中で推定……？無茶では……？
 
 実際無茶だと思いますが、それでも古くからあるアルゴリズムや、柔軟に対応すると主張する「汎用アルゴリズム」ではやっているみたいです。
 具体的にはNewReno@<fn>{rfc2582}、CUBIC@<fn>{ha08}、BBR@<fn>{cardwell16}、Copa@<fn>{arun18}などのことですね。
@@ -128,7 +128,7 @@ cwndの値は@<bou>{ほとんどの場合}、探索によって推定します�
 //footnote[arun18][Venkat Arun, et al.，``Copa: Practical Delay-Based Congestion Control for the Internet''， 15th USENIX Symposium on Networked Systems Design and Implementation (NSDI 18)，2018．]
 //footnote[alizadeh10][Mohammad Alizadeh, et al.，``DCTCP: Efficient Packet Transport for the Commoditized Data Center''，ACM SIGCOMM，2010．]
 //footnote[zhu15][Yibo Zhu, et al.，``Congestion Control for Large-Scale RDMA Deployments''，ACM SIGCOMM，2015．]
-//footnote[li19][Yuliang Li, et al.，``HPCC: High Precision Congestion Control''，ACM SIGCOMM，2015．]
+//footnote[li19][Yuliang Li, et al.，``HPCC: High Precision Congestion Control''，ACM SIGCOMM，2019．]
 
 //chat[たまて]{
 余談ですが、花名ちゃんがキャリアか何かのオペレータになったとして、顧客の送信レートを抑えたい、でも顧客の輻輳制御アルゴリズムがあまり信用できない場合はどうしますか？
@@ -294,7 +294,7 @@ QUICの基本的な輻輳制御アルゴリズムとして用いられている@
 変わったところではVMで利用すると、VMExitが増えるということもあるようです@<fn>{pi19}。
 タイマ割り込み（@<tt>{TSC_DEADLINE}）をさせるためMSRへ書き込む（wrmsr）ことが原因とされています。
 そういえば、@<tt>{tcp_bbr.c}には「キューイングにfqを指定しないと高解像度タイマーを利用する」旨が書かれていました。
-kvm-clockなど特定のクロックソースが有効か否かにもよりそうですが、少し影響が心配です。
+この影響や、kvm-clockなど特定のクロックソースが有効か否かにもよりそうですが、少し影響が心配です。
 //footnote[pi19][Zhenwei Pi, et al.，``How KVM-based Hybrid Deployment Powers Bytedance’s Biggest Day Ever''，KVM Forum 2019．（@<href>{https://cloud.tencent.com/developer/article/1537481}）]
 
 BBRは、GCPやAWSなど大規模な利用が目立つためかメリットばかりが取り上げられているように見えるのですが、利用は慎重にしたいと思います@<fn>{other}。
