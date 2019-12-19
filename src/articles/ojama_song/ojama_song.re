@@ -63,7 +63,7 @@ raw形式で保存されているので、ちょっとした工夫@<fn>{kufu}を
 ちなみに、歌唱者は同研究室で構築された「JSUTコーパス」@<fn>{jsut}の話者と同じです。
 //footnote[sarulab][@<href>{http://www.sp.ipc.i.u-tokyo.ac.jp/}]
 //footnote[jsut-song][@<href>{https://sites.google.com/site/shinnosuketakamichi/publication/jsut-song}]
-//footnote[jsut]["J"apanese "S"peech corpus of "S"aruwatari-lab, University of "T"okyo の略です。本当に注意していただきたいのですが、"JUST"コーパスではありません。 @<href>{https://sites.google.com/site/shinnosuketakamichi/publication/jsut?authuser=0}]
+//footnote[jsut]["J"apanese speech corpus of "S"aruwatari-lab, "U"niversity of "T"okyo の略です。本当に注意していただきたいのですが、"JUST"コーパスではありません。 @<href>{https://sites.google.com/site/shinnosuketakamichi/publication/jsut?authuser=0}]
 
 ==== JVS-MuSiC
 
