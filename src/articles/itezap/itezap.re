@@ -45,7 +45,7 @@
 バラとイチゴは「思ったより」遺伝的に近いことがnatureにて発表されています@<fn>{nature}。
 今回はそれらの匂い（化合物）に注目して類似度を比較しました。
 
-//image[momoka_and_alice_kwii]{両名の写真。私のお気に入りを厳選しました。}
+//image[momoka_and_alice_kwii][両名の写真。私のお気に入りを厳選しました。]
 
 //footnote[nature][@<href>{https://www.nature.com/articles/s41588-018-0110-3}]
 
