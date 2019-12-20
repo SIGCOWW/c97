@@ -2,4 +2,6 @@ PREDEF:
   - intro.re
 
 CHAPS:
+  - itezap.re
+  - ojama_song.re
   - slowstart.re
