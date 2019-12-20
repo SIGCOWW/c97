@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="122.93243mm"
+   height="57.708416mm"
+   viewBox="0 0 122.93243 57.708416"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="temari.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1133"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1015"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1130"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="342.03606"
+     inkscape:cy="71.650016"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.720567,-106.57058)">
+    <path
+       style="fill:#b3b3b3;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 27.371789,119.12081 24.97147,-12.18692 25.21379,12.18692 z"
+       id="path961"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect57"
+       width="50.185257"
+       height="44.893589"
+       x="27.371798"
+       y="119.12082" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39687499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 27.437159,150.97245 h 50.16729"
+       id="path923"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.39687499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44.282519,110.82612 h 16.00729"
+       id="path969"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path971"
+       d="m 38.660119,113.68166 h 27.91354"
+       style="fill:none;stroke:#666666;stroke-width:0.39687499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.39687499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 32.453419,116.53719 h 40.00722"
+       id="path973"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g967"
+       transform="translate(-150.02448,-10.829442)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path953"
+         d="M 202.60488,117.63817 170.86032,133.0035"
+         style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 202.37292,117.63817 31.74456,15.36533"
+         id="path955"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09422836"
+       x="29.59848"
+       y="160.66562"
+       id="text980"><tspan
+         sodipodi:role="line"
+         id="tspan978"
+         x="29.59848"
+         y="160.66562"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09422836">1F</tspan></text>
+    <text
+       id="text984"
+       y="125.7293"
+       x="29.59848"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09422836"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09422836"
+         y="125.7293"
+         x="29.59848"
+         id="tspan982"
+         sodipodi:role="line">2F</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path986"
+       d="M 90.298954,141.56761 H 116.70598"
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.27258515px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08181463"
+       x="121.21288"
+       y="142.78175"
+       id="text1448"><tspan
+         sodipodi:role="line"
+         id="tspan1446"
+         x="121.21288"
+         y="142.78175"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.27258515px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.08181463">インターネット</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 73.645174,125.99967 16.65378,15.56794"
+       id="path1502"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 73.788094,134.99981 16.51086,6.5678"
+       id="path1504"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 73.721948,144.26023 16.577006,-2.69262"
+       id="path1506"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 73.738485,157.80359 90.298954,141.56761"
+       id="path1508"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.39687499;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1500"
+       cx="90.296066"
+       cy="141.55142"
+       r="2.3386083" />
+    <g
+       id="g906"
+       transform="translate(-98.223622,43.287609)">
+      <rect
+         y="79.813278"
+         x="153.38292"
+         height="5.8568683"
+         width="18.590641"
+         id="rect897"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.39687499;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text61"
+         y="84.104256"
+         x="155.2926"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09422836"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09422836"
+           y="84.104256"
+           x="155.2926"
+           id="tspan59"
+           sodipodi:role="line">Iwara.tv</tspan></text>
+    </g>
+    <g
+       id="g916"
+       transform="translate(-121.55031,9.3497653)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.39687499;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect882"
+         width="38.650696"
+         height="5.7380748"
+         x="156.64955"
+         y="122.76406" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09422836"
+         x="158.66962"
+         y="127.1106"
+         id="text65"><tspan
+           sodipodi:role="line"
+           id="tspan63"
+           x="158.66962"
+           y="127.1106"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09422836">LesbianPornVideos</tspan></text>
+    </g>
+    <g
+       id="g911"
+       transform="translate(-116.74346,43.287615)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.39687499;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect899"
+         width="37.055084"
+         height="5.7460823"
+         x="153.43831"
+         y="97.775726" />
+      <text
+         id="text69"
+         y="102.03958"
+         x="154.80876"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09422836"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09422836"
+           y="102.03958"
+           x="154.80876"
+           id="tspan67"
+           sodipodi:role="line">きららファンタジア</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.39687499;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect901"
+       width="29.345827"
+       height="5.787641"
+       x="44.404114"
+       y="154.67953" />
+    <text
+       id="text73"
+       y="159.03766"
+       x="46.249374"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;line-height:1.25;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09422836"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76913428px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.09422836"
+         y="159.03766"
+         x="46.249374"
+         id="tspan71"
+         sodipodi:role="line">スタディサプリ</tspan></text>
+  </g>
+</svg>
